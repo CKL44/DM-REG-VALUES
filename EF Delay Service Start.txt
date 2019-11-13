@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\EmailFilingExchangeConnector]
+"DelayedAutostart"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\EmailMarkerService]
+"DelayedAutostart"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\EmailFilingService]
+"DelayedAutostart"=dword:00000001
+
